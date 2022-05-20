@@ -12,6 +12,35 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 ## List of Blog Posts
 | Blog Post | |
 | ------------- |:-------------|
+|[DepthAI Pipeline Overview: Creating a Complex Pipeline](https://learnopencv.com/depthai-pipeline-overview-creating-a-complex-pipeline/)|[Code](https://github.com/spmallick/learnopencv/tree/master/OAK-DepthAi-Pipeline-Overview)|
+|[TensorFlow Lite Model Maker: Create Models for On-Device Machine Learning](https://learnopencv.com/tensorflow-lite-model-maker-create-models-for-on-device-machine-learning/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Tensorflow-Lite-Model-Maker-Create-Models-for-On-Device-ML)|
+|[TensorFlow Lite: Model Optimization for	On Device Machine Learning](https://learnopencv.com/tensorflow-lite-model-optimization-for-on-device-machine-learning)|[Code](https://github.com/spmallick/learnopencv/tree/master/TensorFlow-Lite-Model-Optimization-for-On-Device-MachineLearning)|
+|[Object detection with depth measurement using pre-trained models with OAK-D](https://learnopencv.com/object-detection-with-depth-measurement-with-oak-d/)|[Code](https://github.com/spmallick/learnopencv/tree/master/OAK-Object-Detection-with-Depth)|
+|[Custom Object Detection Training using YOLOv5](https://learnopencv.com/custom-object-detection-training-using-yolov5/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Custom-Object-Detection-Training-using-YOLOv5)|
+|[Object Detection using Yolov5 and OpenCV DNN (C++/Python)](https://learnopencv.com/object-detection-using-yolov5-and-opencv-dnn-in-c-and-python/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Object-Detection-using-YOLOv5-and-OpenCV-DNN-in-CPP-and-Python)|
+|[Create Snapchat/Instagram filters using Mediapipe](https://learnopencv.com/create-snapchat-instagram-filters-using-mediapipe/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Create-AR-filters-using-Mediapipe)|
+|[AUTOSAR C++ compliant deep learning inference with TensorRT](https://learnopencv.com/autosar-c-compliant-deep-learning-inference-with-tensorrt/)|[Code](https://github.com/spmallick/learnopencv/tree/master/industrial_cv_TensorRT_cpp)|
+|[NVIDIA GTC 2022 Day 4 Highlights: Meet the new Jetson Orin](https://learnopencv.com/nvidia-gtc-2022-day-4-highlights-meet-the-new-jetson-orin/)||
+|[NVIDIA GTC 2022 Day 3 Highlights: Deep Dive into Hopper architecture](https://learnopencv.com/nvidia-gtc-2022-day-3-highlights-deep-dive-into-hopper-architecture/)||
+|[NVIDIA GTC 2022 Day 2 Highlights: Jensen’s Keynote](https://learnopencv.com/nvidia-gtc-2022-day-2-highlights/)||
+|[NVIDIA GTC 2022 Day 1 Highlights: Brilliant Start](https://learnopencv.com/gtc-day-1-highlights/)||
+|[Automatic License Plate Recognition using Python](https://learnopencv.com/automatic-license-plate-recognition-using-deep-learning/)|[Code](https://github.com/spmallick/learnopencv/tree/master/ALPR)|
+|[Building a Body Posture Analysis System using MediaPipe](https://learnopencv.com/building-a-body-posture-analysis-system-using-mediapipe/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Posture-analysis-system-using-MediaPipe-Pose)|
+|[Introduction to MediaPipe](https://learnopencv.com/introduction-to-mediapipe/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Introduction-to-MediaPipe)|
+|[Disparity Estimation using Deep Learning](https://learnopencv.com/disparity-estimation-using-deep-learning/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Disparity-Estimation-Using-Deep-Learning)|
+|[How to build Chrome Dino game bot using OpenCV Feature Matching](https://learnopencv.com/how-to-build-chrome-dino-game-bot-using-opencv-feature-matching/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Chrome-Dino-Bot-using-OpenCV-feature-matching)|
+|[Top 10 Sources to Find Computer Vision and AI Models](https://learnopencv.com/top-10-sources-to-find-computer-vision-and-ai-models/)||
+|[Multi-Attribute and Graph-based Object Detection](https://learnopencv.com/multi-attribute-and-graph-based-object-detection/)||
+|[Plastic Waste Detection with Deep Learning](https://learnopencv.com/plastic-waste-detection-with-deep-learning/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Plastic-Waste-Detection-with-Deep-Learning)|
+|[Ensemble Deep Learning-based Defect Classification and Detection in SEM Images](https://learnopencv.com/ensemble-deep-learning-based-defect-classification-and-detection-in-sem-images/)||
+|[Building Industrial embedded deep learning inference pipelines with TensorRT](https://learnopencv.com/building-industrial-embedded-deep-learning-inference-pipelines-with-tensorrt/)|[Code](https://github.com/spmallick/learnopencv/tree/master/industrial_cv_TensorRT_python)|
+|[Transfer Learning for Medical Images](https://learnopencv.com/transfer-learning-for-medical-images/)||
+|[Stereo Vision and Depth Estimation using OpenCV AI Kit](https://learnopencv.com/stereo-vision-and-depth-estimation-using-opencv-ai-kit/)|[Code](https://github.com/spmallick/learnopencv/tree/master/oak-getting-started)|
+|[Introduction to OpenCV AI Kit and DepthAI](https://learnopencv.com/introduction-to-opencv-ai-kit-and-depthai/)|[Code](https://github.com/spmallick/learnopencv/tree/master/oak-getting-started)|
+|[WeChat QR Code Scanner in OpenCV](https://learnopencv.com/wechat-qr-code-scanner-in-opencv)|[Code](https://github.com/spmallick/learnopencv/tree/master/WeChat-QRCode-Scanner-OpenCV)|
+|[AI behind the Diwali 2021 ‘Not just a Cadbury ad’](https://learnopencv.com/ai-behind-the-diwali-2021-not-just-a-cadbury-ad/)| |
+|[Model Selection and Benchmarking with Modelplace.AI](https://learnopencv.com/model-selection-and-benchmarking-with-modelplace-ai/)|[Model Zoo](https://modelplace.ai/)|
+|[Real-time style transfer in a zoom meeting](https://learnopencv.com/real-time-style-transfer-in-a-zoom-meeting/)|[Code](https://github.com/spmallick/learnopencv/tree/master/style-transfer-zoom)|
 | [Introduction to OpenVino Deep Learning Workbench](https://learnopencv.com/introduction-to-openvino-deep-learning-workbench/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Introduction-to-OpenVino-Deep-Learning-Workbench) |
 | [Running OpenVino Models on Intel Integrated GPU](https://learnopencv.com/running-openvino-models-on-intel-integrated-gpu/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Running-OpenVino-Models-on-Intel-Integrated-GPU) |
 |[Post Training Quantization with OpenVino Toolkit](https://learnopencv.com/post-training-quantization-with-openvino-toolkit/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Post-Training-Quantization-with-OpenVino-Toolkit)|
@@ -229,3 +258,6 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 |[Turn your OpenCV Code into a Web API in under 10 minutes — Part 1](http://www.learnopencv.com/turn-your-opencv-Code-into-a-web-api-in-under-10-minutes-part-1/) | |
 |[How to compile OpenCV sample Code ?](http://www.learnopencv.com/how-to-compile-opencv-sample-Code/) | |
 |[Install OpenCV 3 on Yosemite ( OSX 10.10.x )](http://www.learnopencv.com/install-opencv-3-on-yosemite-osx-10-10-x/) | |
+|[Create Snapchat/Instagram Filters Using Medipipe](https://learnopencv.com/create-snapchat-instagram-filters-using-mediapipe/) |  [Code](https://github.com/spmallick/learnopencv/tree/master/Create-AR-filters-using-Mediapipe)  |
+|[Object detection with depth measurement using pre-trained models with OAK-D](https://learnopencv.com/object-detection-with-depth-measurement-with-oak-d/) |  [Code](https://github.com/spmallick/learnopencv/tree/master/OAK-Object-Detection-with-Depth)  |
+|[DepthAi Pipeline Overview](https://learnopencv.com/depthai-pipeline-overview-creating-a-complex-pipeline/) |  [Code](https://github.com/spmallick/learnopencv/tree/master/OAK-DepthAi-Pipeline-Overview)  |
